@@ -3,7 +3,7 @@
 
 void func1(){
 <<<<<<< HEAD
-	printf("User A : message from func1 , I just change this program lololo from user A");
+	printf("User A : message from func1 , I just change this program lololo from user C");
 =======
 	printf("User A : message from func1 , I just change this program lololo pqow");
 >>>>>>> bd6046bec8fed1eeddb0606c6bb1d37e3c191e73

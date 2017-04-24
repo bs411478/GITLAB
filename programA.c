@@ -2,7 +2,7 @@
 #include <string.h>
 
 void func1(){
-	printf("User A : message from func1 , I just change this program lololol");
+	printf("User A : message from func1 , I just change this program lololo");
 }
 
 void main()
